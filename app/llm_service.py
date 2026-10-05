@@ -1,5 +1,5 @@
 from app.recommender import get_recommendation
-
+from app.ollama_service import generate_ai_recommendation
 
 INTENT_KEYWORDS = {
     "Hardware Issue": [
@@ -142,6 +142,11 @@ def analyze_call(text):
     priority = determine_priority(intent, text)
     summary = generate_summary(text)
     recommendation = get_recommendation(intent)
+    ai_recommendation = generate_ai_recommendation(
+        text,
+        intent,
+        priority
+    )
 
     return {
         "summary": summary,
@@ -149,5 +154,6 @@ def analyze_call(text):
         "sentiment": sentiment,
         "priority": priority,
         "recommendation": recommendation["action"],
-        "queue": recommendation["queue"]
+        "ai_recommendation": ai_recommendation,
+         "queue": recommendation["queue"]
     }

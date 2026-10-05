@@ -1,0 +1,153 @@
+ENTERPRISE IT SUPPORT KNOWLEDGE BASE
+
+VPN TROUBLESHOOTING
+
+Common symptoms:
+- VPN disconnects frequently
+- VPN authentication fails
+- Employee cannot connect to corporate VPN
+- VPN works intermittently
+
+Recommended troubleshooting:
+1. Verify the employee has a stable internet connection.
+2. Confirm VPN credentials and MFA authentication are working.
+3. Restart the VPN client.
+4. Restart the computer if the issue continues.
+5. Check whether the VPN client is up to date.
+6. Verify that firewall or endpoint security settings are not blocking VPN traffic.
+7. Escalate persistent connectivity problems to Network Support.
+
+Routing:
+Network Support
+
+
+PASSWORD AND ACCOUNT ACCESS
+
+Common symptoms:
+- Forgotten password
+- Account locked after failed login attempts
+- Employee cannot log in
+
+Recommended troubleshooting:
+1. Verify the employee's identity.
+2. Confirm whether the account is locked.
+3. Initiate an approved password reset if required.
+4. Confirm that the employee can successfully authenticate after the reset.
+5. Escalate persistent authentication problems to Identity and Access Management.
+
+Routing:
+Identity & Access Management
+
+
+OUTLOOK AND EMAIL
+
+Common symptoms:
+- Outlook does not open
+- Employee cannot access corporate email
+- Outlook repeatedly requests credentials
+- Email connectivity problems
+
+Recommended troubleshooting:
+1. Verify network connectivity.
+2. Restart Outlook.
+3. Check whether Outlook is running in the background.
+4. Verify the Outlook account and profile configuration.
+5. Check for pending Outlook or operating system updates.
+6. Escalate persistent email problems to Messaging / Email Support.
+
+Routing:
+Messaging / Email Support
+
+
+NETWORK AND WI-FI
+
+Common symptoms:
+- Corporate Wi-Fi does not connect
+- Employee cannot access the network
+- Network connectivity is intermittent
+
+Recommended troubleshooting:
+1. Confirm Wi-Fi is enabled.
+2. Verify the employee is connecting to the correct corporate network.
+3. Disconnect and reconnect to Wi-Fi.
+4. Check network adapter settings.
+5. Restart the computer if needed.
+6. Escalate persistent connectivity issues to Network Support.
+
+Routing:
+Network Support
+
+
+HARDWARE
+
+Common symptoms:
+- Laptop does not start
+- Black screen
+- Monitor is not detected
+- Printer is not working
+- Computer restarts unexpectedly
+
+Recommended troubleshooting:
+1. Collect device and asset information.
+2. Check power and physical connections.
+3. Restart the device when appropriate.
+4. Check connected peripherals.
+5. Perform basic hardware diagnostics.
+6. Escalate persistent hardware problems to Endpoint / Desktop Support.
+
+Routing:
+Endpoint / Desktop Support
+
+
+SOFTWARE INSTALLATION
+
+Common symptoms:
+- Employee needs approved software installed
+- Microsoft Teams or another business application is missing
+
+Recommended troubleshooting:
+1. Verify the software request.
+2. Confirm that the requested application is approved.
+3. Install the software using the organization's approved software distribution process.
+4. Verify that the application launches successfully.
+
+Routing:
+Software / Endpoint Support
+
+
+MFA AND AUTHENTICATION
+
+Common symptoms:
+- MFA is not working
+- Employee cannot complete authentication
+- Authentication method is unavailable
+
+Recommended troubleshooting:
+1. Verify the employee's registered authentication methods.
+2. Confirm that the employee can access the required MFA method.
+3. Troubleshoot MFA enrollment.
+4. Re-enroll the authentication method when appropriate.
+5. Escalate persistent authentication problems to Identity & Access Management.
+
+Routing:
+Identity & Access Management
+
+
+PERFORMANCE
+
+Common symptoms:
+- Laptop is extremely slow
+- Applications take several minutes to open
+- System performance has degraded
+
+Recommended troubleshooting:
+1. Check CPU utilization.
+2. Check memory usage.
+3. Check available storage.
+4. Review startup applications.
+5. Check for pending operating system updates.
+6. Restart the device.
+7. Escalate persistent performance problems to Endpoint / Desktop Support.
+
+Routing:
+Endpoint / Desktop Support
